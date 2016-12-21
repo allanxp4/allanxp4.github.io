@@ -22,3 +22,13 @@ body {
 	 display: flex;
 	 flex-direction: column;
 }
+
+.barraIcones{
+  padding: 1% 0px 1% 10% !important;
+  border-radius: 1px !important;
+}
+
+.barraPastas{
+  padding: 1% 0px 1% 5% !important;
+  border-radius: 1px !important;
+}
