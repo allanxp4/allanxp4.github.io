@@ -77,3 +77,8 @@ p{
   font-size: 14px !important;
   vertical-align: initial;
 }
+
+.codigo{
+  color: white !important;
+  font-family: monospace;
+}
