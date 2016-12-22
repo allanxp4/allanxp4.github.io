@@ -2,13 +2,18 @@ body {
   padding : 10px ;
 }
 
+a{
+  color: #9da1b4 !important;
+}
+
 #exTab3 .nav-pills > li > a {
-  border-radius: 4px 4px 0 0 ;
+  border-radius: 3px 3px 0 0 ;
+  color: #656877;
 }
 
 #exTab3 .tab-content {
   color : white;
-  background-color: #428bca;
+  background-color: #31343f;
   padding : 5px 15px;
 }
 
@@ -31,4 +36,43 @@ body {
 .barraPastas{
   padding: 1% 0px 1% 5% !important;
   border-radius: 1px !important;
+}
+
+.footer{
+  border: 1px solid #1b1c22;
+  background-color: #262831;
+  color: #929292;
+}
+
+.exibicaoArquivo{
+  background-color: #262831;
+  border: 1px solid #1b1c22;
+  border-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 4px;
+
+}
+
+.exibicaoListaArquivo{
+  background-color: #262831;
+  border: 1px solid #1b1c22;
+  border-bottom: 0px;
+  border-right: 0px;
+}
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+  background-color: #31343f !important;
+  color: #d9dff7 !important;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+  background-color: rgba(238, 238, 238, 0.03) !important;
+  color: #bcc1d6 !important;
+}
+
+.icones{
+  margin-right: 3px;
+  font-size:17px !important;
+  vertical-align: top;
 }
