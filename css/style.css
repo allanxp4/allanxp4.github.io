@@ -15,8 +15,10 @@ p{
 }
 
 .janela{
-  margin-top: 2%;
+  margin-top: 1%;
   box-shadow: 0px 0px 7px 1px #3a3939;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
 }
 
 #exTab3 .nav-pills > li > a {
@@ -150,4 +152,40 @@ p{
   font-size: 20px;
   font-family: monospace;
   margin-top: 20px;
+}
+
+#barrastatus{
+  background-color: gainsboro;
+  width: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  display: inherit;
+  padding: 3px 0px 2px 12px;
+}
+
+.btnAmarelo{
+  background-color: #ffc318;
+  height: 15px;
+  width: 15px;
+  margin: 0px 8px 0px 0px;
+  border-radius: 7px;
+  border: 1px solid #a5a5a5;
+}
+
+.btnVerde{
+  background-color: #0dd60d;
+  height: 15px;
+  width: 15px;
+  margin: 1px;
+  border-radius: 7px;
+  border: 1px solid #a5a5a5;
+}
+
+.btnVermelho{
+  background-color: #ff6f2a;
+  height: 15px;
+  width: 15px;
+  margin: 0px 8px 0px 0px;
+  border-radius: 7px;
+  border: 1px solid #a5a5a5;
 }
