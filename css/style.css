@@ -114,6 +114,22 @@ p{
   margin-left: 5%;
 }
 
+.linhas{
+  color: #565656;
+  font-family: monospace;
+  font-size: 11px;
+  margin: 5px 0px 0px 0px;
+}
+
+.colunaLinhas{
+  padding: 0px 0px 0px 0px;
+  border-right: 1px solid #2f2f2f;
+  margin-top: -5px;
+  margin-bottom: -3px;
+  margin-left: -11px;
+  width: 3%;
+}
+
 .imagem{
   width: 40%;
   border-radius: 100px;
