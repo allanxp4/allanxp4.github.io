@@ -1,5 +1,4 @@
 ##http://israelrodrigues.com
-[israelrodrigues.com](http://israelrodrigues.com)
 
 Acesse o link acima para ver meu currículo.
 
