@@ -1,4 +1,4 @@
-##http://israelrodrigues.com
+##http://allanaraujo.com
 
 Acesse o link acima para ver meu currículo.
 

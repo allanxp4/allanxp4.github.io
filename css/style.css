@@ -1,6 +1,6 @@
 body {
   padding : 10px ;
-  background-image: url("../img/IMG_334514.jpg");
+  background-image: url("../img/bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -17,7 +17,7 @@ p{
 .janela{
   margin-top: 1%;
   box-shadow: 0px 0px 7px 1px #3a3939;
-  border-top-right-radius: 6px;
+  border-top-right-radius: 0px;
   border-top-left-radius: 6px;
 }
 
@@ -155,10 +155,11 @@ p{
 }
 
 #barrastatus{
-  background-color: gainsboro;
+  background-color: #000000;
+  opacity: 0.4;
   width: 100%;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: -px;
   display: inherit;
   padding: 3px 0px 2px 12px;
 }

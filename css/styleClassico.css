@@ -1,7 +1,7 @@
 @media only screen and (min-width: 501px) {
     body {
         padding: 10px;
-        background-image: url("../img/IMG_334514.jpg");
+        background-image: url("../img/bg.jpg");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
@@ -10,7 +10,7 @@
 @media only screen and (max-width: 500px) {
     body {
         padding: 10px;
-        background-image: url("../img/IMG_334514.jpg");
+        background-image: url("../img/bg.jpg");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 350%;
